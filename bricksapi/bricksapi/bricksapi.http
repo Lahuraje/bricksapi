@@ -1,0 +1,6 @@
+@bricksapi_HostAddress = http://localhost:5181
+
+GET {{bricksapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
